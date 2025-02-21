@@ -1,0 +1,52 @@
+body {
+    background-color: #e5ddd5;
+}
+
+.chat-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.sidebar {
+    width: 30%;
+    background: #fff;
+    border-right: 1px solid #ccc;
+    overflow-y: auto;
+}
+.chat-window {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #dde4eb;
+}
+.message-box {
+    height: 80vh;
+    padding: 20px;
+}
+.chat-input {
+    padding: 10px;
+    background: #fff;
+    border-top: 1px solid #ccc;
+}
+.chat-window{
+    background-image: url("assets/whats\ app.png");
+}
+.circle{
+    border-radius: 50%;
+}
+.Online{
+    font-size: x-small;
+}
+p{
+    font-size: x-smal
+}
+.symbols{
+    position: fixed;
+    right: 0;
+    width: 300px;
+    
+}
+.banner{
+    background: #fff;
+}
