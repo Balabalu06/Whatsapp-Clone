@@ -30,7 +30,7 @@ body {
     border-top: 1px solid #ccc;
 }
 .chat-window{
-    background-image: url("assets/whats\ app.png");
+    background-image: url("assets/whatsapp.png");
 }
 .circle{
     border-radius: 50%;
@@ -39,7 +39,7 @@ body {
     font-size: x-small;
 }
 p{
-    font-size: x-smal
+    font-size: x-small;
 }
 .symbols{
     position: fixed;
